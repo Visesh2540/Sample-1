@@ -1,2 +1,1 @@
-its first line
-its 2nd line
+Its first line of file
